@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="relative min-h-full flex-1 overflow-hidden">
       <Image
-        src="/hero-high-res.png"
+        src="/hero.png"
         alt=""
         fill
         preload
