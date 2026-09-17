@@ -33,7 +33,7 @@ export default function Home() {
           preload
           unoptimized
           sizes="100vw"
-          className="object-cover object-[70%_32%] sm:object-right sm:object-center"
+          className="object-cover object-[70%_32%] sm:origin-right sm:scale-110 sm:object-right sm:object-center"
         />
       </div>
     </div>
