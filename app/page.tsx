@@ -16,7 +16,7 @@ export default function Home() {
         preload
         unoptimized
         sizes="100vw"
-        className="object-cover object-right"
+        className="object-cover object-[68%_38%] sm:object-right sm:object-center"
       />
       <div className="absolute inset-y-0 left-0 z-10 flex w-full items-center justify-center px-8 sm:w-1/2">
         <div className="flex flex-col items-center text-center">
