@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ribbon",
-  description: "Almond and coconut butter. Nothing artificial, ever.",
+  title: "Squizzle",
+  description: "Mess-free nut butters. Coming soon.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
